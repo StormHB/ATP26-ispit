@@ -97,3 +97,9 @@ Numerički popis:
 Citat:
 > The best success, for me, is not one trophy. It's not harmony. It's when players improve and grow.
 > - Unai Emery
+
+Linkovi:
+
+1.[CHANGELOG](CHANGELOG.md)
+
+2.[LICENSE](LICENSE.md)
